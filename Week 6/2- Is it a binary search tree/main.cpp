@@ -1,8 +1,5 @@
-
 #include <bits/stdc++.h>
-
 using namespace std;
-
 
 class node
 {
@@ -67,7 +64,5 @@ int main()
         cout << "CORRECT";
     else
         cout << "INCORRECT";
-
-
     return 0;
 }
